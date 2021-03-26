@@ -1,7 +1,8 @@
 # Vacation SPA
 VacSpa is a simple vacation management tool created using Laravel 7 and Vue 2.
 
-# Installation guide
+# User Guide
+## Setup
 1. Create the database
 2. Clone the project
 3. Rename the `.env.example` file into `.env` and fill in the DB related data with the ones you're using
