@@ -1,5 +1,6 @@
 # Vacation SPA
 VacSpa is a simple vacation management tool created using Laravel 7 and Vue 2.
+Tools used to develop the app were XAMPP, VSCode and GitBash.
 
 # User Guide
 ## Setup
